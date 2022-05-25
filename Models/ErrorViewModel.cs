@@ -1,6 +1,6 @@
 using System;
 
-namespace ChatRoom.Models
+namespace RoomChat.Models
 {
     public class ErrorViewModel
     {
