@@ -1,13 +1,13 @@
-﻿using ChatRoom.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using RoomChat.Models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ChatRoom.Controllers
+namespace RoomChat.Controllers
 {
     public class HomeController : Controller
     {

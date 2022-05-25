@@ -1,6 +1,11 @@
-﻿@{
-    ViewData["Title"] = "Privacy Policy";
-}
-<h1>@ViewData["Title"]</h1>
+﻿@model IEnumerable<Chat>
 
-<p>Use this page to detail your site's privacy policy.</p>
+@{ var userId = User.GetUserId(); }
+
+<div class="chat-body">
+    @foreach (var chat in Model)
+    {
+<a class="room-button" asp-controller="Home" asp-action="Chat" asp-route-id="@chat.Id">
+    @chat.Users.FirstOrDefault(x => x.UserId != userId).User.UserName
+</a>}
+</div>

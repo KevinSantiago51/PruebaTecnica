@@ -1,0 +1,7 @@
+/Users/KevinProject/RoomChat/RoomChat/obj/Debug/netcoreapp2.2/RoomChat.csproj.AssemblyReference.cache
+/Users/KevinProject/RoomChat/RoomChat/obj/Debug/netcoreapp2.2/RoomChat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/KevinProject/RoomChat/RoomChat/obj/Debug/netcoreapp2.2/RoomChat.AssemblyInfoInputs.cache
+/Users/KevinProject/RoomChat/RoomChat/obj/Debug/netcoreapp2.2/RoomChat.AssemblyInfo.cs
+/Users/KevinProject/RoomChat/RoomChat/obj/Debug/netcoreapp2.2/RoomChat.csproj.CoreCompileInputs.cache
+/Users/KevinProject/RoomChat/RoomChat/obj/Debug/netcoreapp2.2/RoomChat.RazorAssemblyInfo.cache
+/Users/KevinProject/RoomChat/RoomChat/obj/Debug/netcoreapp2.2/RoomChat.RazorAssemblyInfo.cs
